@@ -3,3 +3,6 @@ New Change in master.
 First change in feature1
 Second change in feature1
 Third change in feature1 branch
+Fourth
+Fifth
+Sixth
