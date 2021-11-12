@@ -1,1 +1,2 @@
-New feature was added to feature1 branch
+New feature was added to feature1 branch.
+New Change in feature1.
