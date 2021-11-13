@@ -1,2 +1,8 @@
-New feature was added to feature1 branch.
-New Change in feature1.
+New feature was added to master branch.
+New Change in master.
+First change in feature1
+Second change in feature1
+Third change in feature1 branch
+Fourth
+Fifth
+Sixth
